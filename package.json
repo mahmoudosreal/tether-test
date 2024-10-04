@@ -1,0 +1,21 @@
+{
+  "name": "tether-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hyperswarm/rpc": "^3.3.2",
+    "b4a": "^1.6.7",
+    "crypto": "^1.0.1",
+    "hyperbee": "^2.20.2",
+    "hypercore": "^10.37.25",
+    "hyperdht": "^6.18.0",
+    "hyperswarm": "^4.8.3"
+  }
+}

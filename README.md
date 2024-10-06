@@ -1,4 +1,3 @@
-
 # P2P Auction Solution
 
 ## Overview
@@ -32,3 +31,14 @@ While this implementation is basic, it can be enhanced in the future to incorpor
    - `makeBid <itemID> <bidPrice>`: Place a bid on an auction.
    - `closeAuction <itemID>`: Close an auction.
 
+## ScreenShots
+1. **Run HyperDHT**:
+![Run HyperDHT.](https://firebasestorage.googleapis.com/v0/b/mahmoudosplatform.appspot.com/o/tether-test%2FScreenshot%202024-10-04%20at%205.35.38%E2%80%AFPM.png?alt=media&token=af611e0a-096b-4287-9402-84eb428299c3)
+2. **Run Server.js and many Client.js**:
+![Run Server.js and many Client.js.](https://firebasestorage.googleapis.com/v0/b/mahmoudosplatform.appspot.com/o/tether-test%2FScreenshot%202024-10-04%20at%205.36.23%E2%80%AFPM.png?alt=media&token=c7cb2063-8535-4ef1-8262-2b4316f184ce)
+
+3. **Client 1 Open Auction**:
+![.Client 1 Open Auction](https://firebasestorage.googleapis.com/v0/b/mahmoudosplatform.appspot.com/o/tether-test%2FScreenshot%202024-10-04%20at%205.37.21%E2%80%AFPM.png?alt=media&token=fbec7573-d705-4446-9ba6-52facac82810)
+
+4. **Client 2 Make a Bid**:
+![Client 2 Make a Bid.](https://firebasestorage.googleapis.com/v0/b/mahmoudosplatform.appspot.com/o/tether-test%2FScreenshot%202024-10-04%20at%205.38.25%E2%80%AFPM.png?alt=media&token=d2382587-2807-4572-9880-adfeba1abc2e)
